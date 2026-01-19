@@ -1,0 +1,16 @@
+-- creating virtual environment 
+
+
+--Traditional way: 
+
+python -m venv .venv // .venv = file name, . means it will stay hidden 
+
+-- activating the script 
+
+.venv\Scripts\activate 
+
+-- for module installation, create one file named requirements.txt
+	- inside the file, write down the module names
+	- then simply on terminal, pip install -r requirements.txt	
+
+-- always work in venv 
