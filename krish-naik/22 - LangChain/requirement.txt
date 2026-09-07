@@ -7,3 +7,6 @@ bs4
 arxiv<2.0.0
 pymupdf
 langchain-text-splitters
+ollama
+chromadb
+langchain-ollama
