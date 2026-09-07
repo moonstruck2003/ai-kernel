@@ -11,3 +11,4 @@ ollama
 chromadb
 langchain-ollama
 sentence_transformers
+langchain_huggingface
